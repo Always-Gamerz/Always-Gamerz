@@ -1,6 +1,11 @@
-### YO
+HI, DJ Here!!!
 
-<a href="https://app.daily.dev/always_dj"><img src="https://api.daily.dev/devcards/f319d5de959046c9b74d0efb26322118.png?r=ryz" width="400" alt="Always Gamerz's Dev Card"/></a>
+Here is my Daily.dev card :
+
+
+
+
+
 
 <!--
 **Always-Gamerz/Always-Gamerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
