@@ -2,7 +2,7 @@ HI, DJ Here!!!
 
 Here is my Daily.dev card :
 
-<a href="https://app.daily.dev/always_dj"><img src="https://api.daily.dev/devcards/f319d5de959046c9b74d0efb26322118.png?r=ryz" width="400" alt="Always Gamerz's Dev Card"/></a>
+<a href="https://app.daily.dev/always_dj"><img src="https://api.daily.dev/devcards/f319d5de959046c9b74d0efb26322118.png?r=dat" width="400" alt="Always Gamerz's Dev Card"/></a>
 
 
 
